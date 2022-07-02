@@ -355,10 +355,10 @@ refund_reason = "Refund reason:\n" \
                 "{reason}"
 
 # Info: informazioni sul bot
-bot_info = 'This bot is using <a href="https://github.com/Steffo99/greed">greed</a>,' \
-           ' a framework by @Steffo for Telegram payments released under the' \
-           ' <a href="https://github.com/Steffo99/greed/blob/master/LICENSE.txt">' \
-           'Affero General Public License 3.0</a>.\n'
+bot_info = 'This bot has been modified for Deadmaster19 use,' \
+           '' \
+           ' For business use' \
+           ' '
 
 # Help: guide
 help_msg = "greed's guide is available at this address:\n" \
