@@ -361,8 +361,8 @@ bot_info = 'This bot has been modified for Deadmaster19 use,' \
            ' '
 
 # Help: guide
-help_msg = "greed's guide is available at this address:\n" \
-           "https://github.com/Steffo99/greed/wiki"
+help_msg = "" \
+           ""
 
 # Help: contact shopkeeper
 contact_shopkeeper = "Currently, the staff available to provide user assistance is composed of:\n" \
